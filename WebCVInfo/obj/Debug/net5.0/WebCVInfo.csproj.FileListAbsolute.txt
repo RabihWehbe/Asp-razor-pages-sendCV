@@ -1,0 +1,170 @@
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\appsettings.json
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.exe
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.deps.json
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.runtimeconfig.json
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.runtimeconfig.dev.json
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.pdb
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.Views.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.Views.pdb
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.csproj.AssemblyReference.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.AssemblyInfoInputs.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.AssemblyInfo.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.csproj.CoreCompileInputs.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorAssemblyInfo.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorAssemblyInfo.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\scopedcss\bundle\WebCVInfo.styles.css
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\staticwebassets\WebCVInfo.StaticWebAssets.Manifest.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.TagHelpers.input.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.TagHelpers.output.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorCoreGenerate.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\BrowseCV.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\details.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\SendCV.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\uploadFile.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorTargetAssemblyInfo.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorTargetAssemblyInfo.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.Views.pdb
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.csproj.CopyComplete
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\refint\WebCVInfo.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.pdb
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.genruntimeconfig.cache
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\ref\WebCVInfo.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\CheckSome.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\DeleteRecord.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Experiment.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Success.cshtml.g.cs
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\rabih\OneDrive\Documents\I3332\Practice\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\appsettings.json
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.exe
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.deps.json
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.runtimeconfig.json
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.pdb
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.Views.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\WebCVInfo.Views.pdb
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.AssemblyInfo.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\scopedcss\bundle\WebCVInfo.styles.css
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\staticwebassets\WebCVInfo.StaticWebAssets.Manifest.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.TagHelpers.input.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.TagHelpers.output.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorCoreGenerate.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\BrowseCV.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\CheckSome.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\DeleteRecord.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\details.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Experiment.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\SendCV.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\Success.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\uploadFile.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.RazorTargetAssemblyInfo.cs
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.Views.pdb
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.csproj.CopyComplete
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\refint\WebCVInfo.dll
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.pdb
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\WebCVInfo.genruntimeconfig.cache
+C:\Users\pc\Desktop\Semester 6\I3332 asp\CVSolution\WebCVInfo\obj\Debug\net5.0\ref\WebCVInfo.dll

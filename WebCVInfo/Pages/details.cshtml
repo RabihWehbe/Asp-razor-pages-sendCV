@@ -1,0 +1,29 @@
+﻿@page "{name}"
+@model WebCVInfo.Pages.detailsModel
+@{
+    string imagepath = Url.Content(Model.iv.path_image);
+}
+
+<h1 style="color:red">@Model.name details:</h1>
+
+<div>
+    <p>ID: @Model.iv.InternID</p>
+    <br />
+    <p>Gender: @Model.iv.Gender</p>
+</div>
+
+<div>
+    <img width="300" height="300" src="@Url.Content(Model.iv.path_image)"/>
+</div>
+
+<div>
+    <p>Skills:</p>
+    <ul>
+        @foreach (var item in Model.iv.Items)
+       {
+           <li> @item.ItemName</li>
+       }
+    </ul>
+</div>
+
+

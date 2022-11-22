@@ -1,0 +1,63 @@
+﻿@page "{id}/{name}"
+@model WebCVInfo.Pages.EditModel
+@{
+}
+<h1>Edit the infos of intern @Model.BE.name : @Model.BE.id:</h1>
+
+@if(@Model.EBM.formFile != null)
+{
+    <h3>@Model.EBM.formFile.ToString()</h3>
+}
+
+
+<form asp-page="Edit" enctype="multipart/form-data">
+    <div>
+        <label asp-for="EBM.Name"></label>
+        <input asp-for="EBM.Name"/>
+    </div>
+    <div>
+        <label asp-for="EBM.DoB"></label>
+        <input asp-for="EBM.DoB" />
+    </div>
+    
+    <div>
+        <label asp-for="EBM.gender">Male</label>
+        <input type="radio" asp-for="EBM.gender" value="male"/><br />
+
+        <label asp-for="EBM.gender">Female</label>
+        <input type="radio" asp-for="EBM.gender" value="female"/><br />
+    </div>
+
+    <div>
+        <ul>
+            @{
+                foreach(var skill in Model.Askills){
+                    <label>@skill</label>
+                    <input type="checkbox" name="EBM.skills" value="@skill"/><br />
+                }
+            }
+        </ul>
+    </div>
+
+    <div>
+        <input type="file" asp-for="EBM.formFile" placeholder="Enter an image"/>
+    </div>
+    <input type="submit"/>
+</form>
+
+
+@{ 
+if(Model.EBM.skills != null)
+{
+    <ul>
+    @foreach(var item in Model.EBM.skills)
+    {
+            <li>@item</li>
+    }
+    </ul>
+}
+    else
+    {
+        <h3>no list...</h3>
+    }
+}

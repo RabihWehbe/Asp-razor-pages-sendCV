@@ -1,0 +1,49 @@
+﻿@page
+@model WebCVInfo.Pages.SendCVModel
+@{
+    @ViewData["Title"] = "Send";
+}
+
+
+
+
+<form asp-page="SendCV" enctype="multipart/form-data">
+    <div>
+        <label asp-for="ibm.Name"></label>
+        <input asp-for="ibm.Name"/>
+    </div>
+    <div>
+        <label asp-for="ibm.DoB"></label>
+        <input asp-for="ibm.DoB" />
+    </div>
+
+    <div>
+        <label asp-for="ibm.Nationality"></label>
+        <select asp-for="ibm.Nationality" asp-items="Model.nations"></select>
+    </div>
+    
+    <div>
+        <label asp-for="ibm.gender">Male</label>
+        <input type="radio" asp-for="ibm.gender" value="male"/><br />
+
+        <label asp-for="ibm.gender">Female</label>
+        <input type="radio" asp-for="ibm.gender" value="female"/><br />
+    </div>
+
+    <div>
+        <ul>
+            @{
+                foreach(var skill in Model.Askills){
+
+                    <label>@skill</label>
+                    <input type="checkbox" name="skills" value="@skill"/><br />
+                }
+            }
+        </ul>
+    </div>
+
+    <div>
+        <input type="file" asp-for="ibm.formFile" placeholder="Enter an image"/>
+    </div>
+    <input type="submit"/>
+</form>
